@@ -14,7 +14,6 @@ cask "raw-importer" do
   name "Raw Importer"
   desc "Desktop app for importing and organizing RAW photo files"
   homepage "https://github.com/Leon83858/RAW_Importer"
-  license :gpl3
 
   depends_on macos: ">= :big_sur"
 
