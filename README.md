@@ -4,6 +4,7 @@ Install RAW Importer on macOS with:
 
 ```bash
 brew tap Leon83858/tap
+brew trust --cask leon83858/tap/raw-importer
 brew install --cask raw-importer
 ```
 
